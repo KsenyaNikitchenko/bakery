@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uxt2ggseHo5b38vv6VeOUZJj+jirN5rYktFE4uCFptVpfi889Sov2f0hDfrjI3ut8bRxalsbLek7eINIS0440Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ксения\\OneDrive - FGBOU VO Kubanskiy Gosudarstvennyi Universitet\\Программирование\\Разработка приложений\\cooking\\cooking\\cooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ксения\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ксения\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ксения\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
